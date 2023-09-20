@@ -1,0 +1,19 @@
+html,
+body {
+    width: 100%;
+    padding: 20px;
+    background-color: #1f242d;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    color: #0df;
+    border-radius: 0.2rem;
+    border-color: aliceblue;
+    box-shadow: 0.2rem;
+}
+
+img {
+    width: 70vh;
+}
